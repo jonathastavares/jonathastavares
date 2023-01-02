@@ -8,10 +8,13 @@ Currently learning:
 
  - [x] HTML & CSS (+ Bootstrap);
  - [x] Ruby;
- - [x] SQL and Database;
+ - [x] SQL and Database (PostgreSQL);
  - [x] Ruby on Rails;
  - [x] JavaScript;
- - [x] React & Redux;
+ - [x] React;
+ - [x] Redux;
+ - [x] NextJS;
+ - [x] TypeScript;
 <br>
 
 <p align="center">
