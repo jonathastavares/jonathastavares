@@ -1,7 +1,7 @@
 > Hi there, my name is Jonathas Tavares, I am currently studying to become a fullstack developer!
 <br>
 
-👩‍💻 I’m a student at Microverse looking forward to becoming a Full-Stack Web Developer.
+👩‍💻 I’m Fullstack developer with 3+ years of experience.
 <br>
 
 Currently learning:
